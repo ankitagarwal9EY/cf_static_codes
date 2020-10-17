@@ -1,0 +1,10 @@
+---
+
+applications:
+ 
+- name: myapp_java
+  memory: 1024M
+   
+  buildpacks:
+
+  - sap_java_buildpack

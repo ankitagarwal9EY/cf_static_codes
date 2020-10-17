@@ -1,0 +1,5 @@
+---
+applications:
+- name: myapp_node2
+  path: myapp
+  memory: 128M

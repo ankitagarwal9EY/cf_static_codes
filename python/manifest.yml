@@ -1,0 +1,7 @@
+---
+applications:
+- name: myapp_python
+  path: .
+  memory: 128M
+  command: python server.py
+  buildpack: python_buildpack

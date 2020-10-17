@@ -1,0 +1,6 @@
+---
+applications:
+- name: myapp
+  buildpack: staticfile_buildpack
+  memory: 100M
+  path: /myapp
